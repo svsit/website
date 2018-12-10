@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nieuws on Studievereniging SIT</title>
+    <link>https://svsit.nl/nieuws/</link>
+    <description>Recent content in Nieuws on Studievereniging SIT</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>nl-nl</language>
+    <lastBuildDate>Tue, 01 May 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://svsit.nl/nieuws/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Nieuwsbrief SIT: mei</title>
+      <link>https://svsit.nl/nieuws/2018/05/nieuwsbrief/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://svsit.nl/nieuws/2018/05/nieuwsbrief/</guid>
+      <description>Je bent begonnen met het lezen van de nieuwe maandelijkse nieuwsbrief van Studievereniging Innovatie &amp;amp; Technologie. In deze nieuwsbrief vind je aankondigingen, informatie over evenementen van SIT, relevant ICT nieuws en communicatie vanuit het bestuur.
+Aankondigingen Spoed ALV SIT&amp;rsquo;ers, de eindbazen in games zijn altijd het lastigst, de laatste periode hebben wij geprobeerd aan te poten, maar het bleef veel werk. Vandaar dat wij genoodzaakt zijn om een SPOED-ALV aan te vragen.</description>
+    </item>
+    
+  </channel>
+</rss>

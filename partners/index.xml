@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Partners on Studievereniging SIT</title>
+    <link>https://svsit.nl/partners/</link>
+    <description>Recent content in Partners on Studievereniging SIT</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>nl-nl</language>
+    <lastBuildDate>Thu, 01 Feb 2018 00:00:00 -0800</lastBuildDate>
+    
+	<atom:link href="https://svsit.nl/partners/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Aan de slag met Suus</title>
+      <link>https://svsit.nl/partners/aan-de-slag-met-suus/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 -0800</pubDate>
+      
+      <guid>https://svsit.nl/partners/aan-de-slag-met-suus/</guid>
+      <description>Hoi SIT-studenten, sinds april 2017 schrijf ik een maandelijkse column voor jullie site.
+Even voorstellen Ik ben Suus en psycholoog voor alle studenten in en rond Amsterdam. Om me heen zie ik steeds meer studenten die kampen met bijvoorbeeld studiestress, presentatie-angst of somberheid. Gelukkig is er aan veel problemen die studenten ervaren iets te doen.
+Via de columns (te vinden bij &amp;lsquo;nieuws&amp;rsquo;) zal ik allerlei stress- en studiegerelateerde thema&amp;rsquo;s bespreken die hierbij kunnen helpen.</description>
+    </item>
+    
+    <item>
+      <title>Young Capital</title>
+      <link>https://svsit.nl/partners/young-capital/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 -0800</pubDate>
+      
+      <guid>https://svsit.nl/partners/young-capital/</guid>
+      <description>Website: www.youngcapital.nl
+YoungCapital Professionals staat voor jong talent: het kapitaal van elke organisatie die voorop wil lopen. Wij helpen jonge IT-talenten zoals jij hun plek te veroveren op de arbeidsmarkt!
+Gaat jouw hart sneller kloppen van het bouwen of testen van apps, websites of backend applicaties of ligt jouw interesse bij het analyseren van grote hoeveelheden data? Dat komt goed uit! Want via onze IT-traineeships kun je daar je werk van maken en direct aan de slag als bijvoorbeeld developer, BI/big data-engineer of software tester.</description>
+    </item>
+    
+  </channel>
+</rss>

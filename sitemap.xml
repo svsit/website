@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://svsit.nl/sit/bestuur-2018/</loc>
+    <lastmod>2018-04-08T09:16:58-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://svsit.nl/nieuws/2018/05/nieuwsbrief/</loc>
+    <lastmod>2018-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://svsit.nl/</loc>
+    <lastmod>2018-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://svsit.nl/partners/aan-de-slag-met-suus/</loc>
+    <lastmod>2018-02-01T00:00:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://svsit.nl/partners/young-capital/</loc>
+    <lastmod>2018-02-01T00:00:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://svsit.nl/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://svsit.nl/nieuws/</loc>
+    <lastmod>2018-05-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://svsit.nl/tags/nieuwsbrief/</loc>
+    <lastmod>2018-05-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://svsit.nl/partners/</loc>
+    <lastmod>2018-02-01T00:00:00-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://svsit.nl/sit/</loc>
+    <lastmod>2018-04-08T09:16:58-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://svsit.nl/tags/</loc>
+    <lastmod>2018-05-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

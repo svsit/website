@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sits on Studievereniging SIT</title>
+    <link>https://svsit.nl/sit/</link>
+    <description>Recent content in Sits on Studievereniging SIT</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>nl-nl</language>
+    <lastBuildDate>Sun, 08 Apr 2018 09:16:58 -0800</lastBuildDate>
+    
+	<atom:link href="https://svsit.nl/sit/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bestuur 2017 - 2018</title>
+      <link>https://svsit.nl/sit/bestuur-2018/</link>
+      <pubDate>Sun, 08 Apr 2018 09:16:58 -0800</pubDate>
+      
+      <guid>https://svsit.nl/sit/bestuur-2018/</guid>
+      <description>Mathijs Marks
+Voorzitter
+Joshua Turpijn
+Vice-Voorzitter
+Laurens Nieuwendijk
+Penningmeester/Commisaris
+Thomas Haagsma
+Secretaris</description>
+    </item>
+    
+  </channel>
+</rss>
